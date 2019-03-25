@@ -1,0 +1,15 @@
+{
+  "name": "ignfullstack",
+  "version": "1.0.0",
+  "description": "Full Stack Chat Application",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavik Sardar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
